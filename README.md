@@ -8,13 +8,17 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://market.yaznbook.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://market.yaznbook.com/profile/1" target="_blank" rel="noopener noreferrer">
     <img alt="Yaznbook Market" src="https://img.shields.io/badge/🛍️%20Yaznbook%20Market-Visit-blue?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wikiebery.yaznbook.com" target="_blank" rel="noopener noreferrer">
-    <img alt="WikiEbery" src="https://img.shields.io/badge/📚%20WikiEbery-Explore-green?style=for-the-badge&logo=wikipedia&logoColor=white" />
+<p align="center">
+  <a href="https://wikiebery.yaznbook.com/profile/1" target="_blank" rel="noopener noreferrer">
+    <img alt="WikiEbery Logo" src="https://market.yaznbook.com/logo.png" width="28" style="vertical-align: middle; margin-right: 8px;" />
+    <img alt="WikiEbery Badge" src="https://img.shields.io/badge/%20Wikiebery-See-green?style=for-the-badge&logo=wikipedia&logoColor=white" />
   </a>
+</p>
+
 </p>
 
 ---
