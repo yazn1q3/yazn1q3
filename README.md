@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
 <p align="center">
   <a href="https://wikiebery.yaznbook.com/profile/1" target="_blank" rel="noopener noreferrer">
-    <img alt="WikiEbery Logo" src="https://market.yaznbook.com/logo.png" width="28" style="vertical-align: middle; margin-right: 8px;" />
+    <img alt="WikiEbery Logo" src="https://wikiebery.yaznbook.com/logo.png" width="28" style="vertical-align: middle; margin-right: 8px;" />
     <img alt="WikiEbery Badge" src="https://img.shields.io/badge/%20Wikiebery-See-green?style=for-the-badge&logo=wikipedia&logoColor=white" />
   </a>
 </p>
