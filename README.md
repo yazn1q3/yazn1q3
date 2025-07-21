@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Yazn</h1>
 <p align="center">
-  🧠 13-year-old Tech Prodigy from Saudi Arabia 🇸🇦<br/>
+  🧠 Tech Prodigy from Saudi Arabia 🇸🇦<br/>
   🚀 Founder of the <b>Yaznbook</b> ecosystem — pioneering next-gen marketplaces & knowledge hubs.
 </p>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I’m **Yazn**, a passionate 13-year-old coder from Saudi Arabia 🇸🇦  
+I’m **Yazn**, a passionate coder from Saudi Arabia 🇸🇦  
 Building a tech empire that empowers the Middle East and beyond.  
 
 - 💻 Creator of **Yaznbook Market** — Saudi Arabia’s fastest growing marketplace  
